@@ -3,4 +3,5 @@ line 2 written by bangalore
 line 3 added by bangalore
 line 4 added by bangalore
 adding line 5 for 3rd commit by bangalore
-adding line 6 for 3rd commit by bangalore 
+adding line 6 for 3rd commit by bangalore
+adding line 7 by bangalore 
